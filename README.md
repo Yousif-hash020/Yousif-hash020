@@ -13,8 +13,8 @@ A dedicated **Computer Science student** with demonstrated expertise in MERN Sta
 ## Technical Expertise
 
 - **Frontend Development**: HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React, Redux
-- **Backend Development**: Node.js, Express.js, Java, GraphQL, REST APIs
-- **Database Management**: MongoDB, SQL Server, data modeling, optimization
+- **Backend Development**: Node.js, Express.js, Laravel, REST APIs
+- **Database Management**: MongoDB, MYSQL, data modeling, optimization
 - **Development Tools**: Git, VS Code, IntelliJ IDEA, Socket.IO, npm/yarn
 
 ## Professional Focus
@@ -35,16 +35,16 @@ Passionate about engineering efficient, scalable solutions and continuously enha
 
 ### Backend  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
-  <img src="https://devicon-website.vercel.app/api/graphql/plain.svg" width="45" height="45" title="GraphQL"/>
+<img src="https://devicon-website.vercel.app/api/laravel/plain.svg" width="45" height="45" title="laravel"></img>
   <img src="https://devicon-website.vercel.app/api/express/original.svg" width="45" height="45" title="Express" style="background-color:white; padding:2px; border-radius:5px;"/>
 </p>
 
 ### Databases  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="SQL Server"/>
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg " width="45" height="45" title ="MYSql"></img>
 </p>
 
 
