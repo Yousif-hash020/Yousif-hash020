@@ -44,7 +44,7 @@ Passionate about engineering efficient, scalable solutions and continuously enha
 ### Databases  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
-  <img src="https://devicon-website.vercel.app/api/mysql/original.svg " width="45" height="45" title ="MYSql"></img>
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" width="45" height="45" title ="MYSql"></img>
 </p>
 
 
