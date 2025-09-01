@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-A dedicated **Computer Science student** with demonstrated expertise in web-development and robust problem-solving capabilities. Combines strong technical knowledge with practical experience in building scalable, maintainable applications across the development stack.
+A dedicated **Computer Science student** with demonstrated expertise in MERN Stack development and robust problem-solving capabilities. Combines strong technical knowledge with practical experience in building scalable, maintainable applications across the development stack.
 
 ## Technical Expertise
 
