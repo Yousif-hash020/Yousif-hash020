@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Muhammad Yousaf**  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+MERN+Developer;Problem+Solver;DevOps+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Developer;Problem+Solver;)](https://git.io/typing-svg)
 
 </div>
 
