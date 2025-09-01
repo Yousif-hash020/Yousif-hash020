@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Hamza Riaz**  
+# 👋 Hi, I'm **Muhammad Yousaf**  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+MERN+Developer;Problem+Solver;DevOps+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
@@ -8,14 +8,13 @@
 
 ## Professional Summary
 
-A dedicated **Computer Science student** with demonstrated expertise in full-stack development and robust problem-solving capabilities. Combines strong technical knowledge with practical experience in building scalable, maintainable applications across the development stack.
+A dedicated **Computer Science student** with demonstrated expertise in web-development and robust problem-solving capabilities. Combines strong technical knowledge with practical experience in building scalable, maintainable applications across the development stack.
 
 ## Technical Expertise
 
 - **Frontend Development**: HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React, Redux
 - **Backend Development**: Node.js, Express.js, Java, GraphQL, REST APIs
-- **Database Management**: MongoDB, SQL Server, Redis, data modeling, optimization
-- **DevOps & Cloud Technologies**: AWS, Docker, Kubernetes, Apache Kafka, Nginx
+- **Database Management**: MongoDB, SQL Server, data modeling, optimization
 - **Development Tools**: Git, VS Code, IntelliJ IDEA, Socket.IO, npm/yarn
 
 ## Professional Focus
@@ -46,17 +45,8 @@ Passionate about engineering efficient, scalable solutions and continuously enha
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" title="Redis"/>
 </p>
 
-### DevOps & Cloud  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" title="AWS"/>
-  <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="45" height="45" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" title="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
-  <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg" width="45" height="45" title="Kafka"/>
-</p>
 
 ### Tools  
 <p align="center">
@@ -69,13 +59,10 @@ Passionate about engineering efficient, scalable solutions and continuously enha
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://instagram.com/hamz.ariaz029">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-riaz-b094a9299">
+  <a href="https://linkedin.com/in/muhammad-yousaf-66b06b245">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="mailto:hamza.riaz.tech@gmail.com">
+  <a href="mailto:arainyousif020@gamil.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
