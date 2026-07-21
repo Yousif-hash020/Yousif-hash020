@@ -187,8 +187,3 @@ February 2023 – January 2027
 ### ⭐ Open to AI/ML and Frontend Development Opportunities
 
 </div>
-'''
-
-path = Path("/mnt/data/README_Muhammad_Yousaf.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
