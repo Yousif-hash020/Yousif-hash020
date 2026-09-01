@@ -17,9 +17,6 @@ I am currently seeking an **AI/ML or Frontend Development internship** where I c
 ---
 
 
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
